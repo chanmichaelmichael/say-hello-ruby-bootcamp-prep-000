@@ -2,5 +2,5 @@
 def say_hello(name = "Ruby Programmer")
   string = "Hello #{name}!"
   put string
-  string
+  return string
 end
